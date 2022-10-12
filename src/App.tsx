@@ -1,5 +1,5 @@
-import Banner from './Componentes/Banner/Banner';
-import CampoTexto from './Componentes/CampoTexto/CampoTexto';
+import Banner from './Componentes/Banner/IndexBanner';
+import CampoTexto from './Componentes/CampoTexto/IndexCampoTexto';
 
 function App() {
   return (
