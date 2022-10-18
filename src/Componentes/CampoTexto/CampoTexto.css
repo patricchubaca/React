@@ -12,7 +12,6 @@ label {
 .campo-texto input {
   width: 100%;
   background-color: #fff;
-  box-shadow: 10px 10px 40px rgba(0, 0, 0.1);
   border: none;
   padding: 24px;
   font-size: 24px;
